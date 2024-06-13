@@ -8,4 +8,4 @@ Don't support simulator,if you need run on simulator,please contact us.
 - iOS 9.0 or above
   
 ## Documentation
-[Jump to Online Document](```http://sdk.icomon.cn```)
+http://sdk.icomon.cn
